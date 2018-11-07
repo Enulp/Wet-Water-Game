@@ -1,1 +1,2 @@
-# WetWater
+# The Tower
+The Tower will be a puzzle game, in which the player has to complete a level in a limited amount of time. The player completing the level will be able to have basic game mechanics, such as running and jumping but he will also gain some abilities to be able to overcome some obstacles. In the multiplayer mode, both players will control their characters through a third person view but one of them will have at his disposal some traps or some kind of objects to prevent the other player from reaching the end of the level.  
