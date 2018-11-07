@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c12cb55e-9a91-4256-857f-b814cd025d66" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BulletForMultiplayer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Network/BulletForMultiplayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <marker date="1525012983683" expanded="false" signature="6:78" ph="..." />
+                <marker date="1525012983683" expanded="true" signature="129:453" ph="{...}" />
+                <marker date="1525012983683" expanded="true" signature="217:451" ph="{...}" />
+                <marker date="1525012983683" expanded="true" signature="351:416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HurtPlayer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health/HurtPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding>
+                <marker date="1528209052486" expanded="true" signature="6:78" ph="..." />
+                <marker date="1528209052486" expanded="true" signature="120:727" ph="{...}" />
+                <marker date="1528209052486" expanded="true" signature="204:211" ph="{...}" />
+                <marker date="1528209052486" expanded="true" signature="264:271" ph="{...}" />
+                <marker date="1528209052486" expanded="true" signature="320:725" ph="{...}" />
+                <marker date="1528209052486" expanded="true" signature="417:719" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EndLevel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/EndLevel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1524755663592" expanded="false" signature="6:78" ph="..." />
+                <marker date="1524755663592" expanded="true" signature="118:352" ph="{...}" />
+                <marker date="1524755663592" expanded="true" signature="220:350" ph="{...}" />
+                <marker date="1524755663592" expanded="true" signature="256:346" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaterHurtMulti.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/WaterHurtMulti.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <marker date="1528302587659" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528302587659" expanded="true" signature="124:450" ph="{...}" />
+                <marker date="1528302587659" expanded="true" signature="235:242" ph="{...}" />
+                <marker date="1528302587659" expanded="true" signature="296:441" ph="{...}" />
+                <marker date="1528302587659" expanded="true" signature="394:438" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>if (health</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health/HurtPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Level5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FotiaFiring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WaterHurtMulti.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powers/MiniPower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Level4.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powers/JumpPower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WaterDamageMulti.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NetworkManagerCustom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Platform/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/pauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/EndLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptsMulti/PlayerSetupNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerControllerMulti.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Network/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Network/BulletForMultiplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Network/Billboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Props/SciFi_Door/Script/door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/thirdMoveObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Clone Tuto.cs" />
+        <option value="$PROJECT_DIR$/Assets/Level1M.cs" />
+        <option value="$PROJECT_DIR$/Assets/Level2M.cs" />
+        <option value="$PROJECT_DIR$/Assets/Level3M.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turret.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Powers/MiniPower.cs" />
+        <option value="$PROJECT_DIR$/Assets/NetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Network/NetworkManager_Custom.cs" />
+        <option value="$PROJECT_DIR$/Assets/NetworkManagerCustom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControllerMulti.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletForMultiplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Network/Billboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FotiaFiring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Network/BulletForMultiplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/WaterDamageMulti.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Network/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/AI/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Level5.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerControllerMulti.cs" />
+        <option value="$PROJECT_DIR$/Assets/WaterHurtMulti.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PrayTower (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12cb55e-9a91-4256-857f-b814cd025d66" name="Default" comment="" />
+      <created>1524666022708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524666022708</updated>
+      <workItem from="1524666030707" duration="597000" />
+      <workItem from="1524677314395" duration="2178000" />
+      <workItem from="1524829504061" duration="12000" />
+      <workItem from="1524829624574" duration="40000" />
+      <workItem from="1524830757328" duration="21000" />
+      <workItem from="1524833896356" duration="36000" />
+      <workItem from="1524834472373" duration="261000" />
+      <workItem from="1524917084386" duration="1277000" />
+      <workItem from="1524918641422" duration="360000" />
+      <workItem from="1524928566593" duration="42000" />
+      <workItem from="1524928777081" duration="61000" />
+      <workItem from="1524929283396" duration="3000" />
+      <workItem from="1524931471592" duration="15000" />
+      <workItem from="1524933159258" duration="135000" />
+      <workItem from="1524933449100" duration="626000" />
+      <workItem from="1524996010805" duration="713000" />
+      <workItem from="1524998906116" duration="15000" />
+      <workItem from="1525000171152" duration="299000" />
+      <workItem from="1525000518416" duration="30000" />
+      <workItem from="1525000573181" duration="510000" />
+      <workItem from="1525001487889" duration="14000" />
+      <workItem from="1525001542367" duration="826000" />
+      <workItem from="1525003865428" duration="119000" />
+      <workItem from="1525004078740" duration="2667000" />
+      <workItem from="1525006765005" duration="439000" />
+      <workItem from="1525017504823" duration="193000" />
+      <workItem from="1525017963825" duration="1514000" />
+      <workItem from="1525021107646" duration="20000" />
+      <workItem from="1525021278020" duration="2403000" />
+      <workItem from="1525032582227" duration="176000" />
+      <workItem from="1525037158983" duration="17000" />
+      <workItem from="1525040277088" duration="9000" />
+      <workItem from="1525041575325" duration="4000" />
+      <workItem from="1525046056206" duration="46000" />
+      <workItem from="1528213570004" duration="5000" />
+      <workItem from="1528220369400" duration="171000" />
+      <workItem from="1528299097270" duration="477000" />
+      <workItem from="1528299933807" duration="881000" />
+      <workItem from="1528300913427" duration="18000" />
+      <workItem from="1528300973277" duration="1772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19002000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.041145835" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="12" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="9" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powers/MiniPower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/thirdMoveObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powers/MiniPower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turret.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level1M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level2M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level3M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Level1M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Clone Tuto.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Target.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Clone Tuto.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level3M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level2M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Level1M.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Tutorials/Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turret.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powers/JumpPower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NetworkManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Network/NetworkManager_Custom.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControllerMulti.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powers/MiniPower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="84" selection-start-line="33" selection-start-column="84" selection-end-line="33" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NetworkManagerCustom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/thirdMoveObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/pauseMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BulletForMultiplayer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Network/Billboard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/UNET Part 22/Assets/Scripts/Player_Health.cs" />
+    <entry file="file://$USER_HOME$/Desktop/UNET Part 22/Assets/Scripts/Player_Respawn.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Network/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FotiaFiring.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Level4.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Level5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WaterDamageMulti.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/AI/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerControllerMulti.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu/EndLevel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1524755663592" expanded="false" signature="6:78" ph="..." />
+            <marker date="1524755663592" expanded="true" signature="118:352" ph="{...}" />
+            <marker date="1524755663592" expanded="true" signature="220:350" ph="{...}" />
+            <marker date="1524755663592" expanded="true" signature="256:346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health/HurtPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <marker date="1528209052486" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528209052486" expanded="true" signature="120:727" ph="{...}" />
+            <marker date="1528209052486" expanded="true" signature="204:211" ph="{...}" />
+            <marker date="1528209052486" expanded="true" signature="264:271" ph="{...}" />
+            <marker date="1528209052486" expanded="true" signature="320:725" ph="{...}" />
+            <marker date="1528209052486" expanded="true" signature="417:719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/Network/BulletForMultiplayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1525012983683" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525012983683" expanded="true" signature="129:453" ph="{...}" />
+            <marker date="1525012983683" expanded="true" signature="217:451" ph="{...}" />
+            <marker date="1525012983683" expanded="true" signature="351:416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WaterHurtMulti.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <marker date="1528302587659" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528302587659" expanded="true" signature="124:450" ph="{...}" />
+            <marker date="1528302587659" expanded="true" signature="235:242" ph="{...}" />
+            <marker date="1528302587659" expanded="true" signature="296:441" ph="{...}" />
+            <marker date="1528302587659" expanded="true" signature="394:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

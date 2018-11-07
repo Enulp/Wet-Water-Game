@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+<title>THE TOWER</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+/* Full height image header */
+#home {
+    background-position: right;
+	background-color: #004C99;
+	right: 0;
+    background-size: cover;
+    background-image: url("CoverWebsite.png");
+    min-height: 75%;
+	background-size: 25%;
+	background-repeat: no-repeat;
+}
+.w3-bar .w3-button {
+    padding: 16px;
+}
+
+	#skills{
+	background-color: #909090;
+	}
+	
+	#team{
+	background-color: #A0A0A0;
+	}
+	
+	#backgroundWetWater{
+	background-color: #004C99;
+	}
+.wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide"> <img src="WetWater.png" alt="Smiley face" height="42" width="30"> </a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
+      <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
+      <!--<a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>-->
+      <a href="#pricing" class="w3-bar-item w3-button">DOWNLOAD</a>
+      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
+  <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
+  <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">WORK</a>
+  <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">DOWNLOAD</a>
+  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
+</nav>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-left w3-text-white" style="padding:48px">
+    <span class="w3-jumbo w3-hide-small"><font color = white>THE TOWER</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">THE TOWER</span><br>
+    <span class="w3-large">First Year Game Project at EPITA</span>
+    <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more</a></p>
+  </div>
+  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+	
+  </div>
+</header>
+
+<!-- About The game -->
+<div class="w3-container" style="padding:128px 16px" id="about">
+  <font color = black>
+  <h3 class="w3-center">ABOUT THE GAME</h3>
+  <p class="w3-center w3-large">Description of the game</p>
+  
+  <p>The Tower will be a puzzle game, in which the player has to complete a level in a limited amount of time. The player completing the level will be able to have basic game mechanics, such as running and jumping but he will also gain some abilities to be able to overcome some obstacles. In the multiplayer mode, both players will control their characters through a third person view but one of them will have at his disposal some traps or some kind of objects to prevent the other player from reaching the end of the level.</p>
+  <p class="w3-center w3-large">Story</p>
+  <p>The game revolves around a scientist living in a mysterious Tower hidden from civilization. You are a journalist who received a special invitation to discover the facility. The scientist living in the tower is rumored to be illegally testing drugs on innocent people. Your career is in danger so you want to be featured on the headlines. You want to find out if the rumors are true. The aim of this game is to go through all the floors of the Tower in order to escape and possibly meet the scientist and get the interview that will change your career forever.</p>
+</font>
+  </div>
+  </div>
+
+<!-- Promo Section - "We know design" 
+<div class="w3-container w3-light-grey" style="padding:128px 16px">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>We know design.</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore.</p>
+      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
+    </div>
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+    </div>
+  </div>
+</div>-->
+
+<!-- Team Section -->
+
+<div class="w3-container" style="padding:128px 16px" id="team">
+ 
+  <h3 class="w3-center">THE TEAM</h3>
+  <p class="w3-center w3-large">The ones who runs this game</p>
+  <div class="w3-row-padding w3-grayscale">
+<div class="w3-col l2 m6 w3-margin-bottom  w3-grayscale">
+</div>
+    <div class="w3-col l2 m6 w3-margin-bottom  w3-grayscale">
+      <div class="w3-card">
+        <img src="quoc-duong.nguyen.jpg" alt="Quoc Duong" style="width:100%">
+        <div class="w3-container">
+          <h3>Quoc Duong NGUYEN</h3>
+          <p class="w3-opacity">Group Leader</p>
+          <p>Developper in Unity 3D, voice actor and sound design.</p>
+          
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l2 m6 w4-margin-bottom-margin-bottom  w3-grayscale">
+      <div class="w3-card">
+        <img src="thien-phuoc.le-ngoc.jpg" alt="Thien Phuoc" style="width:100%">
+        <div class="w3-container">
+          <h3>Thien Phuoc LE NGOC</h3>
+          <p class="w3-opacity">Art Director</p>
+          <p>Level Designer and in charge of the network of the game</p>
+          
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l2 m6 w3-margin-bottom  w3-grayscale">
+      <div class="w3-card">
+        <img src="guillaume.bailly.jpg" alt="Guillaume" style="width:100%">
+        <div class="w3-container">
+          <h3>Guillaume BAILLY</h3>
+          <p class="w3-opacity">Web Designer</p>
+          <p>Level builder, and specialised in SFX and visual effects</p>
+          
+        </div>
+      </div>
+    </div>
+	<div class="w3-col l2 m6 w3-margin-bottom  w3-grayscale">
+      <div class="w3-card">
+        <img src="johan.pardo.jpg" alt="Johan PARDO" style="width:100%">
+        <div class="w3-container">
+          <h3>Johan PARDO</h3>
+          <p class="w3-opacity">Designer</p>
+          <p>In charge of everything related to 3D from modelling to animation, and also of this website.</p>
+          
+        </div>
+      </div>
+    </div>
+
+  </div>
+<!-- Promo Section "Statistics" 
+<div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">14+</span>
+    <br>Partners
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">55+</span>
+    <br>Projects Done
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">89+</span>
+    <br>Happy Clients
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">150+</span>
+    <br>Meetings
+  </div>
+</div>-->
+
+<!-- Work Section -->
+<!--<div class="w3-container" style="padding:128px 16px" id="work">
+  <h3 class="w3-center">OUR WORK</h3>
+  <p class="w3-center w3-large">What we've done for people</p>
+
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A drone">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Soundbox">
+    </div>
+  </div>
+
+  <div class="w3-row-padding w3-section">
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_tablet.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tablet">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_camera.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A camera">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_typewriter.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A typewriter">
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="/w3images/tech_tableturner.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
+    </div>
+  </div>
+</div>
+
+<!-- Modal for full size images on click-->
+<div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
+  <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
+  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+    <img id="img01" class="w3-image">
+    <p id="caption" class="w3-opacity w3-large"></p>
+  </div> -- >
+</div>
+
+<!-- Skills Section -->
+<div class="w3-container w3 w3-padding-64 " id="skills">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>Advancement of our game</h3>
+      <p>Here you can see the advancement of our game throughout our defenses</p>
+    </div>
+    <div class="w3-col m6">
+      <p class="w3-wide"><i class="fa fa-camera w3-margin-right"></i>3D Modeling</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+      <p class="w3-wide"><i class="fa fa-desktop w3-margin-right"></i>Animation</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+      <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>SFX</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Level Design</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Level Build</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Sound Design</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Game Design</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Website & Hosting</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Artificial Intelligence</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Multiplayer</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+	  <p class="w3-wide"><i class="fa fa-photo w3-margin-right"></i>Network</p>
+      <div class="w3-grey">
+        <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Pricing Section -->
+<div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
+  <div class="w1-third">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+	  <div id="backgroundWetWater">
+        <li class="w3 w3-xlarge w3-padding-48"><font color = white>DOWNLOADS</li>
+        </font>
+		<div/>
+		<li class="w3-light-grey w3-padding-24">
+		<div>
+
+		</div>
+          <a download class="w3-button w3-black w3-padding-large " href="report_en.pdf">Report (English)</a>
+		  <a download class="w3-button w3-black w3-padding-large " href="report_fr.pdf">Report (French)</a>
+		  <a download class="w3-button w3-black w3-padding-large " href="mountain.png">GAME</a>
+        </li>
+      </ul>
+    </div>
+</div>
+
+<!-- Contact Section -->
+<div class="w3-container w3-light-grey" style="padding:128px 16px" id="contact">
+  <h3 class="w3-center">CONTACT</h3>
+  <p class="w3-center w3-large">Lets get in touch. Send us a message:</p>
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-half">
+      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> Villejuif, France</p>
+      <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +33769101882</p>
+      <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: johan.pardo@epita.fr</p>
+		</div>
+  </div>
+  <div class="wrapper">
+  <div class="h_iframe">
+    <!-- a transparent image is preferable -->
+    <img class="ratio" src="http://www.brightontheday.com/wp-content/uploads/2013/07/placeholder300.png" />
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRehAyizolL19_JeWletyzRCDVb38iZLUiVasEEGS9LjbspQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  </div>
+</div>
+ </div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+  </div>
+  </footer>
+ 
+<!-- Add Google Maps -->
+<script>
+function myMap()
+{
+  myCenter=new google.maps.LatLng(41.878114, -87.629798);
+  var mapOptions= {
+    center:myCenter,
+    zoom:12, scrollwheel: false, draggable: false,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
+
+  var marker = new google.maps.Marker({
+    position: myCenter,
+  });
+  marker.setMap(map);
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+
+// Toggle between showing and hiding the sidebar when clicking the menu icon
+var mySidebar = document.getElementById("mySidebar");
+
+function w3_open() {
+    if (mySidebar.style.display === 'block') {
+        mySidebar.style.display = 'none';
+    } else {
+        mySidebar.style.display = 'block';
+    }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+    mySidebar.style.display = "none";
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+<!--
+To use this code on your website, get a free API key from Google.
+Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
+-->
+
+</body>
+</html>
